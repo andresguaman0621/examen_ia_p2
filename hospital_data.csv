@@ -1,0 +1,1001 @@
+Age,Blood_Pressure,Cholesterol,Heart_Rate,Gender,Diagnosis,Smoker,Exercise,Risk_Level
+51,113,225,96,Male,Diabetes,No,None,High Risk
+92,87,270,63,Female,Healthy,No,Occasional,High Risk
+14,119,195,89,Male,Heart Disease,No,Occasional,Low Risk
+71,162,229,65,Male,Heart Disease,Yes,None,High Risk
+60,121,203,78,Female,Heart Disease,Yes,Occasional,High Risk
+20,120,235,91,Male,Hypertension,Yes,Regular,Low Risk
+82,85,241,68,Female,Hypertension,Yes,Regular,Low Risk
+86,131,297,71,Female,Heart Disease,No,Regular,High Risk
+74,105,246,70,Male,Hypertension,Yes,Regular,Low Risk
+74,143,151,75,Male,Diabetes,Yes,Occasional,High Risk
+87,177,182,60,Female,Hypertension,No,Occasional,Low Risk
+99,138,226,80,Female,Hypertension,No,None,Low Risk
+23,135,265,89,Male,Heart Disease,Yes,Occasional,High Risk
+2,138,299,72,Female,Healthy,No,Occasional,High Risk
+21,149,252,93,Female,Healthy,Yes,Occasional,High Risk
+52,112,252,63,Female,Healthy,No,None,Low Risk
+1,132,239,87,Male,Diabetes,Yes,Regular,High Risk
+87,101,271,97,Female,Hypertension,Yes,Occasional,High Risk
+29,100,292,90,Male,Healthy,Yes,None,High Risk
+37,149,255,86,Female,Heart Disease,Yes,None,High Risk
+1,149,268,64,Male,Healthy,Yes,None,High Risk
+63,83,198,84,Female,Healthy,No,Regular,Low Risk
+59,173,253,62,Male,Hypertension,Yes,Occasional,High Risk
+20,154,210,92,Male,Hypertension,Yes,None,High Risk
+32,141,272,63,Male,Hypertension,Yes,Regular,Low Risk
+75,141,283,84,Female,Diabetes,Yes,None,High Risk
+57,173,158,79,Female,Diabetes,Yes,None,High Risk
+21,174,155,93,Female,Healthy,No,None,High Risk
+88,103,222,85,Male,Hypertension,No,None,High Risk
+48,134,252,64,Female,Healthy,Yes,None,High Risk
+90,88,190,94,Male,Heart Disease,No,Regular,Low Risk
+58,82,263,87,Female,Heart Disease,Yes,Occasional,Low Risk
+41,110,157,88,Male,Hypertension,No,Occasional,Low Risk
+91,119,221,68,Male,Hypertension,No,Occasional,High Risk
+59,115,241,97,Male,Heart Disease,Yes,Occasional,Low Risk
+79,103,211,65,Female,Hypertension,No,Regular,High Risk
+14,174,233,78,Female,Diabetes,No,Regular,High Risk
+61,85,211,70,Female,Diabetes,Yes,Regular,High Risk
+61,145,260,61,Male,Hypertension,Yes,None,Low Risk
+46,163,276,68,Male,Heart Disease,No,None,Low Risk
+61,171,156,80,Female,Healthy,No,None,Low Risk
+50,154,233,83,Female,Hypertension,No,Occasional,High Risk
+54,83,281,93,Female,Hypertension,Yes,None,Low Risk
+63,158,283,81,Male,Healthy,No,Occasional,High Risk
+2,85,207,62,Male,Hypertension,No,None,Low Risk
+50,173,171,71,Male,Healthy,No,Occasional,Low Risk
+6,130,276,87,Male,Heart Disease,Yes,None,High Risk
+20,141,152,89,Male,Diabetes,Yes,None,High Risk
+72,136,276,85,Female,Heart Disease,Yes,Regular,Low Risk
+38,145,190,80,Male,Diabetes,Yes,None,Low Risk
+17,158,255,87,Male,Healthy,No,None,Low Risk
+3,154,163,85,Male,Diabetes,Yes,Regular,High Risk
+88,87,161,92,Male,Heart Disease,No,Occasional,High Risk
+59,105,236,80,Male,Diabetes,No,Regular,Low Risk
+13,130,161,94,Female,Healthy,No,Regular,Low Risk
+8,124,290,93,Male,Diabetes,No,Occasional,High Risk
+89,123,174,77,Male,Hypertension,Yes,None,Low Risk
+52,84,194,70,Male,Heart Disease,Yes,Occasional,High Risk
+1,149,271,82,Female,Hypertension,Yes,None,High Risk
+83,105,296,81,Female,Healthy,Yes,None,High Risk
+91,147,204,76,Female,Diabetes,Yes,Occasional,High Risk
+59,98,249,64,Male,Hypertension,No,Regular,High Risk
+70,163,285,70,Female,Hypertension,Yes,Occasional,High Risk
+43,176,268,89,Male,Diabetes,Yes,None,Low Risk
+7,99,202,74,Male,Diabetes,Yes,Occasional,High Risk
+46,91,181,86,Female,Heart Disease,Yes,Occasional,High Risk
+34,126,200,94,Male,Hypertension,No,None,Low Risk
+77,80,193,92,Male,Hypertension,No,Regular,High Risk
+80,169,231,79,Male,Healthy,No,Occasional,Low Risk
+35,93,295,75,Female,Heart Disease,No,None,High Risk
+49,143,299,93,Male,Healthy,No,None,Low Risk
+3,117,186,61,Male,Hypertension,Yes,Occasional,Low Risk
+1,116,245,94,Female,Healthy,No,Regular,High Risk
+5,90,205,99,Male,Hypertension,No,Occasional,High Risk
+53,179,254,87,Male,Hypertension,No,Regular,High Risk
+3,156,208,98,Female,Healthy,Yes,Regular,High Risk
+53,82,280,65,Male,Healthy,Yes,Regular,Low Risk
+92,112,184,68,Male,Diabetes,No,Regular,Low Risk
+62,85,242,79,Male,Diabetes,Yes,Occasional,Low Risk
+17,129,246,60,Male,Diabetes,Yes,None,High Risk
+89,89,284,67,Male,Hypertension,No,None,Low Risk
+43,84,225,82,Female,Healthy,Yes,None,High Risk
+33,102,198,62,Female,Heart Disease,Yes,None,High Risk
+73,89,243,63,Female,Hypertension,Yes,None,Low Risk
+61,123,173,84,Female,Heart Disease,No,None,High Risk
+99,81,297,97,Male,Healthy,No,Occasional,Low Risk
+13,92,186,74,Male,Hypertension,No,Regular,High Risk
+94,119,153,80,Male,Heart Disease,Yes,None,Low Risk
+47,81,257,94,Male,Heart Disease,No,Occasional,High Risk
+14,163,275,73,Male,Diabetes,Yes,None,Low Risk
+71,144,169,95,Female,Diabetes,Yes,None,Low Risk
+77,142,199,71,Female,Diabetes,Yes,Regular,High Risk
+86,152,245,76,Male,Hypertension,No,Regular,High Risk
+61,96,254,98,Male,Healthy,No,Regular,Low Risk
+39,88,266,68,Male,Healthy,No,None,High Risk
+84,154,247,94,Female,Diabetes,No,None,High Risk
+79,94,215,72,Male,Diabetes,Yes,None,High Risk
+81,103,228,74,Male,Diabetes,No,Regular,Low Risk
+52,117,155,77,Male,Heart Disease,Yes,Occasional,Low Risk
+23,114,188,92,Female,Diabetes,No,None,High Risk
+25,173,264,65,Male,Heart Disease,No,None,High Risk
+88,174,274,86,Female,Healthy,No,None,Low Risk
+59,128,161,82,Female,Hypertension,Yes,Occasional,High Risk
+40,148,280,86,Female,Hypertension,Yes,None,Low Risk
+28,141,167,93,Female,Hypertension,Yes,Occasional,High Risk
+14,139,189,97,Female,Hypertension,Yes,None,High Risk
+44,129,170,73,Female,Heart Disease,Yes,Occasional,High Risk
+64,157,292,95,Male,Heart Disease,No,None,Low Risk
+88,154,248,67,Male,Diabetes,Yes,Regular,Low Risk
+70,88,175,94,Male,Heart Disease,Yes,Regular,Low Risk
+8,113,157,78,Female,Diabetes,Yes,Regular,Low Risk
+87,155,249,89,Male,Diabetes,Yes,Regular,High Risk
+0,178,236,73,Female,Hypertension,No,None,High Risk
+7,114,191,79,Female,Heart Disease,Yes,Regular,Low Risk
+87,80,163,84,Female,Heart Disease,No,Occasional,High Risk
+62,119,227,99,Male,Diabetes,No,Regular,High Risk
+10,143,151,83,Female,Diabetes,No,Regular,Low Risk
+80,101,268,73,Female,Healthy,Yes,Regular,High Risk
+7,139,186,85,Male,Healthy,No,None,High Risk
+34,143,218,97,Male,Diabetes,Yes,Regular,Low Risk
+34,172,190,82,Female,Healthy,Yes,Occasional,High Risk
+32,151,211,81,Female,Healthy,Yes,Regular,High Risk
+4,90,209,78,Male,Diabetes,Yes,Regular,High Risk
+40,93,274,62,Male,Diabetes,Yes,Regular,Low Risk
+27,139,260,78,Male,Heart Disease,No,Occasional,Low Risk
+6,109,163,68,Female,Diabetes,No,Regular,High Risk
+72,114,233,87,Male,Diabetes,Yes,Occasional,High Risk
+71,164,279,79,Male,Hypertension,No,Occasional,High Risk
+11,116,219,66,Male,Heart Disease,Yes,Regular,Low Risk
+33,84,294,73,Female,Heart Disease,No,Occasional,Low Risk
+32,162,272,68,Male,Heart Disease,No,None,Low Risk
+47,157,238,78,Male,Hypertension,No,Regular,High Risk
+22,105,177,73,Male,Diabetes,No,Regular,High Risk
+61,141,215,97,Male,Heart Disease,No,Occasional,High Risk
+87,83,154,95,Male,Heart Disease,Yes,Occasional,High Risk
+36,168,194,99,Female,Healthy,Yes,Regular,High Risk
+98,121,196,76,Female,Heart Disease,No,None,Low Risk
+43,168,180,89,Female,Diabetes,Yes,Occasional,High Risk
+85,97,288,68,Male,Diabetes,No,Occasional,High Risk
+90,119,159,92,Female,Healthy,Yes,None,High Risk
+34,151,267,84,Female,Heart Disease,No,None,Low Risk
+64,118,163,73,Female,Heart Disease,No,Regular,High Risk
+98,93,229,70,Male,Heart Disease,No,None,Low Risk
+46,111,242,94,Male,Hypertension,Yes,Regular,Low Risk
+77,130,159,73,Female,Heart Disease,Yes,None,Low Risk
+2,117,225,89,Female,Diabetes,No,Occasional,Low Risk
+0,176,243,63,Male,Diabetes,No,Regular,Low Risk
+4,102,254,63,Male,Hypertension,Yes,Regular,High Risk
+89,142,150,87,Female,Hypertension,Yes,Regular,High Risk
+13,94,282,67,Male,Heart Disease,Yes,None,Low Risk
+26,176,169,61,Female,Healthy,Yes,Occasional,Low Risk
+8,104,157,81,Male,Hypertension,Yes,Regular,Low Risk
+78,96,150,75,Female,Hypertension,No,Regular,High Risk
+14,176,206,88,Female,Heart Disease,Yes,Regular,High Risk
+89,145,213,89,Male,Heart Disease,No,Regular,Low Risk
+41,157,267,71,Female,Hypertension,No,Occasional,High Risk
+76,132,177,94,Female,Healthy,Yes,None,High Risk
+50,130,270,70,Female,Hypertension,Yes,Occasional,Low Risk
+62,118,256,80,Male,Heart Disease,No,Regular,Low Risk
+95,130,198,80,Male,Heart Disease,Yes,Occasional,High Risk
+51,149,269,64,Male,Hypertension,No,Regular,High Risk
+95,85,193,79,Female,Healthy,Yes,None,High Risk
+3,146,205,96,Male,Hypertension,Yes,None,Low Risk
+93,86,260,62,Female,Hypertension,Yes,None,Low Risk
+22,130,283,92,Female,Heart Disease,No,Regular,Low Risk
+14,151,257,68,Male,Healthy,Yes,Occasional,High Risk
+42,121,297,68,Male,Diabetes,No,None,High Risk
+28,143,263,63,Female,Healthy,Yes,Regular,Low Risk
+35,94,227,94,Female,Hypertension,No,Regular,High Risk
+12,108,279,76,Male,Hypertension,Yes,Occasional,Low Risk
+31,112,186,93,Male,Hypertension,No,None,High Risk
+70,173,169,83,Male,Healthy,No,Regular,Low Risk
+58,106,175,91,Female,Heart Disease,No,Occasional,High Risk
+85,115,178,60,Female,Hypertension,No,None,High Risk
+27,108,150,67,Female,Hypertension,No,Occasional,Low Risk
+65,117,268,82,Female,Healthy,No,Occasional,Low Risk
+41,136,184,99,Female,Diabetes,Yes,Regular,Low Risk
+44,176,208,71,Male,Diabetes,No,Regular,Low Risk
+61,106,218,71,Male,Heart Disease,No,Regular,Low Risk
+56,134,161,74,Female,Heart Disease,No,Occasional,High Risk
+5,112,169,78,Female,Hypertension,Yes,Regular,Low Risk
+27,147,192,85,Male,Healthy,Yes,Occasional,Low Risk
+27,165,275,88,Male,Hypertension,Yes,Occasional,Low Risk
+43,145,199,81,Male,Heart Disease,No,Regular,Low Risk
+83,89,178,99,Male,Healthy,Yes,None,Low Risk
+29,84,188,80,Female,Healthy,Yes,None,High Risk
+61,153,187,97,Male,Heart Disease,No,None,Low Risk
+74,176,233,79,Female,Diabetes,No,Occasional,Low Risk
+91,117,277,88,Male,Diabetes,Yes,Occasional,Low Risk
+88,92,275,63,Male,Healthy,No,Occasional,High Risk
+61,110,194,66,Male,Hypertension,No,Regular,High Risk
+96,126,201,87,Female,Diabetes,No,Occasional,Low Risk
+0,179,229,87,Female,Hypertension,No,Regular,Low Risk
+26,167,273,63,Male,Diabetes,Yes,Regular,High Risk
+61,131,268,81,Female,Diabetes,No,None,High Risk
+76,135,157,71,Female,Hypertension,Yes,None,High Risk
+2,94,234,62,Male,Heart Disease,Yes,None,Low Risk
+69,108,278,81,Male,Diabetes,Yes,Regular,Low Risk
+71,87,157,61,Female,Diabetes,Yes,Regular,High Risk
+26,84,245,83,Female,Hypertension,No,Regular,Low Risk
+8,108,251,93,Female,Heart Disease,No,Occasional,High Risk
+61,126,154,86,Male,Diabetes,No,Regular,High Risk
+36,147,235,60,Male,Diabetes,Yes,None,High Risk
+96,155,183,67,Female,Heart Disease,Yes,None,Low Risk
+50,124,204,82,Male,Diabetes,Yes,Regular,High Risk
+43,81,268,97,Male,Heart Disease,No,Regular,High Risk
+23,106,263,65,Female,Heart Disease,Yes,None,Low Risk
+78,174,294,81,Female,Hypertension,No,Regular,High Risk
+58,115,175,84,Male,Healthy,No,None,Low Risk
+31,115,285,77,Male,Heart Disease,No,Occasional,High Risk
+95,105,196,76,Female,Hypertension,No,None,Low Risk
+87,122,262,71,Male,Healthy,Yes,Occasional,High Risk
+51,106,225,65,Male,Diabetes,No,Regular,High Risk
+61,148,221,85,Female,Healthy,Yes,Regular,High Risk
+57,99,238,86,Female,Heart Disease,No,Occasional,High Risk
+51,90,195,67,Male,Heart Disease,Yes,Regular,High Risk
+11,153,182,78,Male,Heart Disease,Yes,Occasional,Low Risk
+38,117,150,60,Male,Heart Disease,No,Regular,Low Risk
+1,85,296,88,Female,Heart Disease,No,None,High Risk
+2,151,180,94,Male,Hypertension,No,Regular,High Risk
+55,102,291,99,Male,Heart Disease,Yes,None,High Risk
+80,126,202,73,Female,Hypertension,No,None,Low Risk
+58,169,197,94,Female,Diabetes,No,Occasional,Low Risk
+1,125,218,79,Male,Heart Disease,Yes,Regular,High Risk
+1,91,254,72,Female,Heart Disease,No,Occasional,Low Risk
+91,169,239,97,Female,Healthy,Yes,Regular,High Risk
+53,92,212,67,Male,Diabetes,No,None,High Risk
+86,141,222,79,Female,Heart Disease,Yes,None,High Risk
+95,161,238,92,Female,Heart Disease,Yes,Regular,Low Risk
+96,168,162,85,Male,Diabetes,No,Regular,High Risk
+0,176,222,98,Female,Hypertension,Yes,Occasional,High Risk
+18,139,226,80,Male,Heart Disease,No,Regular,High Risk
+1,122,217,68,Male,Healthy,No,Regular,Low Risk
+52,155,247,83,Female,Heart Disease,Yes,Regular,Low Risk
+43,179,274,96,Female,Healthy,No,Occasional,Low Risk
+89,147,251,76,Female,Healthy,Yes,Regular,High Risk
+31,84,281,83,Male,Heart Disease,Yes,None,Low Risk
+69,116,251,80,Female,Heart Disease,Yes,Occasional,High Risk
+31,151,168,98,Male,Healthy,Yes,Occasional,Low Risk
+67,171,231,98,Female,Diabetes,Yes,None,High Risk
+54,110,290,72,Female,Diabetes,Yes,None,Low Risk
+74,88,172,70,Female,Heart Disease,Yes,None,High Risk
+55,130,232,78,Male,Hypertension,Yes,Regular,Low Risk
+16,108,258,70,Female,Diabetes,No,None,Low Risk
+37,157,224,72,Female,Heart Disease,No,Regular,Low Risk
+23,119,278,60,Male,Diabetes,Yes,Occasional,High Risk
+68,120,237,99,Male,Hypertension,No,Occasional,Low Risk
+97,165,203,78,Female,Heart Disease,No,None,Low Risk
+69,90,238,71,Female,Hypertension,No,Regular,Low Risk
+85,102,292,67,Female,Heart Disease,No,None,Low Risk
+10,80,214,67,Male,Hypertension,No,None,High Risk
+15,125,225,71,Male,Diabetes,No,Regular,Low Risk
+96,100,292,92,Male,Diabetes,Yes,None,High Risk
+72,169,298,85,Male,Hypertension,No,Occasional,High Risk
+58,115,296,98,Female,Hypertension,No,None,High Risk
+69,133,209,87,Male,Hypertension,No,Regular,High Risk
+79,166,242,64,Male,Heart Disease,No,Regular,Low Risk
+92,136,198,67,Male,Diabetes,Yes,Occasional,High Risk
+2,80,184,84,Female,Heart Disease,Yes,Regular,High Risk
+19,142,251,86,Female,Diabetes,Yes,Regular,High Risk
+58,133,160,82,Male,Healthy,Yes,Occasional,High Risk
+35,134,248,89,Male,Heart Disease,No,None,Low Risk
+18,119,259,82,Female,Diabetes,Yes,Occasional,Low Risk
+89,94,223,79,Female,Diabetes,Yes,None,High Risk
+66,100,158,77,Female,Heart Disease,Yes,Occasional,High Risk
+18,126,152,77,Female,Heart Disease,Yes,None,High Risk
+19,152,234,61,Female,Diabetes,No,Occasional,Low Risk
+95,132,175,63,Female,Heart Disease,Yes,None,Low Risk
+70,88,221,89,Female,Hypertension,No,Occasional,Low Risk
+51,153,197,92,Female,Heart Disease,Yes,None,Low Risk
+32,131,266,95,Male,Heart Disease,No,Occasional,Low Risk
+39,136,161,77,Male,Heart Disease,No,Regular,High Risk
+38,105,282,96,Male,Diabetes,Yes,None,Low Risk
+81,120,197,78,Male,Hypertension,Yes,Occasional,Low Risk
+0,114,186,87,Male,Healthy,Yes,None,High Risk
+10,142,193,99,Male,Healthy,Yes,None,Low Risk
+91,104,164,79,Female,Hypertension,No,Occasional,Low Risk
+56,169,192,92,Female,Hypertension,No,None,Low Risk
+88,154,236,71,Male,Hypertension,Yes,Occasional,High Risk
+49,117,219,74,Male,Diabetes,Yes,Regular,Low Risk
+22,81,195,98,Female,Healthy,No,None,High Risk
+30,86,257,61,Female,Hypertension,Yes,Regular,High Risk
+93,161,272,88,Female,Diabetes,No,None,Low Risk
+41,170,170,69,Male,Healthy,Yes,None,Low Risk
+98,113,256,61,Female,Heart Disease,No,None,Low Risk
+6,170,229,70,Male,Diabetes,No,Occasional,Low Risk
+15,96,196,72,Male,Healthy,No,Regular,High Risk
+89,122,266,69,Female,Diabetes,No,None,Low Risk
+59,138,273,73,Female,Healthy,No,Occasional,High Risk
+1,130,292,77,Male,Healthy,Yes,None,High Risk
+0,133,174,68,Female,Heart Disease,No,Occasional,High Risk
+47,103,185,98,Female,Diabetes,Yes,None,High Risk
+11,104,200,87,Male,Hypertension,No,Regular,High Risk
+68,150,164,62,Female,Heart Disease,No,Regular,Low Risk
+36,131,217,79,Male,Heart Disease,Yes,None,High Risk
+31,149,170,65,Male,Healthy,Yes,Occasional,High Risk
+8,167,290,86,Female,Hypertension,Yes,None,Low Risk
+98,112,168,61,Male,Diabetes,Yes,Occasional,Low Risk
+18,128,183,88,Male,Hypertension,No,None,High Risk
+47,108,227,97,Female,Hypertension,Yes,Occasional,High Risk
+79,142,274,62,Female,Hypertension,No,Regular,Low Risk
+2,101,266,75,Female,Hypertension,Yes,None,High Risk
+19,105,201,89,Male,Hypertension,Yes,Regular,Low Risk
+23,107,176,99,Male,Healthy,No,Regular,Low Risk
+53,164,184,61,Female,Healthy,No,None,High Risk
+32,128,285,76,Male,Heart Disease,Yes,None,Low Risk
+23,150,293,71,Female,Healthy,No,Occasional,High Risk
+74,160,255,94,Female,Heart Disease,No,Occasional,High Risk
+71,163,295,60,Male,Heart Disease,No,Regular,High Risk
+35,128,151,74,Female,Diabetes,No,Occasional,Low Risk
+37,99,226,85,Male,Hypertension,No,Occasional,High Risk
+83,165,281,96,Male,Healthy,No,None,Low Risk
+98,171,239,80,Female,Diabetes,No,Occasional,High Risk
+88,142,238,90,Male,Healthy,No,Regular,High Risk
+98,140,243,84,Female,Heart Disease,Yes,Occasional,Low Risk
+24,128,156,82,Male,Healthy,No,Regular,High Risk
+92,150,244,83,Male,Hypertension,Yes,None,High Risk
+17,80,257,97,Male,Heart Disease,No,Regular,Low Risk
+81,175,223,87,Female,Heart Disease,No,Occasional,Low Risk
+65,92,188,80,Male,Diabetes,No,None,Low Risk
+53,173,290,77,Female,Hypertension,No,Occasional,High Risk
+34,166,220,95,Male,Heart Disease,Yes,None,Low Risk
+79,130,205,94,Male,Hypertension,Yes,None,Low Risk
+60,135,191,68,Female,Healthy,No,Occasional,High Risk
+40,162,185,97,Female,Hypertension,Yes,Occasional,Low Risk
+99,141,233,89,Female,Heart Disease,No,None,High Risk
+32,111,267,93,Female,Diabetes,No,None,High Risk
+67,109,156,91,Female,Heart Disease,Yes,Occasional,Low Risk
+32,108,203,62,Male,Hypertension,Yes,Regular,High Risk
+13,128,278,62,Male,Hypertension,No,Occasional,Low Risk
+20,124,269,87,Female,Heart Disease,No,None,Low Risk
+47,172,255,74,Male,Hypertension,Yes,Occasional,Low Risk
+19,109,196,82,Male,Healthy,No,Regular,Low Risk
+7,95,272,99,Male,Heart Disease,Yes,Occasional,High Risk
+6,119,290,70,Female,Diabetes,No,None,High Risk
+66,98,268,91,Male,Heart Disease,No,Occasional,Low Risk
+16,97,299,95,Male,Healthy,Yes,None,Low Risk
+32,80,267,92,Male,Healthy,Yes,None,High Risk
+47,157,170,83,Female,Healthy,Yes,Occasional,Low Risk
+75,126,286,98,Male,Healthy,No,None,High Risk
+58,145,175,93,Male,Healthy,No,None,Low Risk
+85,171,158,87,Female,Diabetes,No,Regular,High Risk
+21,173,164,96,Female,Hypertension,No,Regular,High Risk
+29,117,159,66,Male,Healthy,Yes,Regular,High Risk
+37,130,271,63,Male,Healthy,No,Regular,Low Risk
+50,142,270,96,Female,Heart Disease,No,None,Low Risk
+53,83,274,60,Female,Diabetes,No,Occasional,Low Risk
+7,80,221,60,Female,Diabetes,Yes,None,Low Risk
+26,87,198,79,Female,Hypertension,No,None,Low Risk
+26,108,240,78,Female,Diabetes,No,None,High Risk
+97,134,186,88,Female,Heart Disease,Yes,Occasional,High Risk
+20,82,217,69,Female,Heart Disease,No,Regular,High Risk
+29,111,199,77,Male,Hypertension,No,None,High Risk
+96,89,168,87,Female,Heart Disease,Yes,None,High Risk
+27,153,249,94,Female,Healthy,No,Regular,High Risk
+63,162,209,90,Male,Healthy,No,None,High Risk
+96,113,238,86,Female,Heart Disease,No,Occasional,Low Risk
+68,176,295,70,Female,Hypertension,Yes,None,High Risk
+60,166,296,97,Male,Diabetes,No,None,Low Risk
+47,134,218,64,Female,Hypertension,No,Regular,High Risk
+18,171,198,67,Male,Diabetes,Yes,None,High Risk
+3,111,257,93,Male,Heart Disease,Yes,None,Low Risk
+34,129,268,71,Male,Heart Disease,No,Occasional,High Risk
+63,86,298,97,Male,Healthy,No,Regular,Low Risk
+48,172,299,60,Female,Diabetes,No,Regular,High Risk
+16,87,186,90,Male,Hypertension,No,Occasional,Low Risk
+43,144,292,63,Male,Heart Disease,Yes,None,High Risk
+91,136,160,64,Female,Hypertension,No,Regular,Low Risk
+29,146,287,89,Male,Healthy,Yes,Regular,Low Risk
+92,167,227,83,Male,Diabetes,Yes,None,High Risk
+45,166,226,62,Male,Diabetes,No,None,High Risk
+5,138,151,70,Male,Heart Disease,No,Regular,Low Risk
+98,151,213,63,Female,Diabetes,Yes,None,High Risk
+36,133,184,85,Male,Heart Disease,Yes,Regular,Low Risk
+23,146,156,86,Female,Healthy,No,None,High Risk
+92,130,234,86,Female,Diabetes,Yes,None,Low Risk
+45,176,295,65,Male,Heart Disease,No,Occasional,High Risk
+52,171,216,74,Male,Hypertension,No,None,Low Risk
+94,87,191,89,Male,Heart Disease,Yes,Occasional,High Risk
+98,113,267,96,Male,Diabetes,Yes,None,Low Risk
+59,114,274,96,Female,Healthy,No,Regular,Low Risk
+96,175,173,96,Female,Diabetes,Yes,Regular,High Risk
+62,167,195,94,Female,Diabetes,No,None,High Risk
+84,157,168,82,Male,Heart Disease,No,None,Low Risk
+31,111,217,65,Female,Hypertension,No,Regular,Low Risk
+86,125,251,63,Male,Diabetes,Yes,None,Low Risk
+32,95,191,77,Male,Hypertension,No,Occasional,Low Risk
+66,147,181,68,Male,Heart Disease,No,Occasional,High Risk
+17,116,258,88,Male,Hypertension,No,Occasional,Low Risk
+24,133,185,72,Male,Heart Disease,No,Occasional,Low Risk
+94,164,246,76,Female,Healthy,No,Occasional,Low Risk
+53,93,280,91,Female,Hypertension,No,None,High Risk
+57,174,222,81,Male,Hypertension,No,None,Low Risk
+66,134,285,63,Female,Healthy,No,Occasional,High Risk
+45,127,246,64,Male,Hypertension,No,None,High Risk
+23,161,272,96,Male,Healthy,No,None,High Risk
+31,86,219,72,Male,Diabetes,No,Occasional,High Risk
+46,153,162,93,Female,Heart Disease,Yes,None,High Risk
+85,86,198,81,Male,Healthy,No,None,High Risk
+22,112,209,82,Male,Hypertension,No,None,High Risk
+65,102,279,62,Female,Healthy,No,Occasional,Low Risk
+26,164,154,93,Female,Hypertension,Yes,None,Low Risk
+1,98,176,91,Female,Diabetes,No,Regular,High Risk
+89,98,298,80,Male,Healthy,Yes,Regular,Low Risk
+16,115,157,80,Male,Diabetes,No,Occasional,Low Risk
+32,108,199,70,Female,Heart Disease,No,Regular,High Risk
+8,139,216,98,Male,Hypertension,Yes,Occasional,Low Risk
+42,161,193,63,Female,Hypertension,No,Regular,High Risk
+47,81,274,60,Female,Diabetes,Yes,Regular,Low Risk
+38,80,207,87,Male,Heart Disease,Yes,Regular,High Risk
+92,126,152,83,Male,Healthy,No,Occasional,High Risk
+41,148,235,94,Female,Healthy,No,Occasional,Low Risk
+25,99,219,72,Female,Hypertension,No,None,Low Risk
+98,90,279,93,Female,Diabetes,No,Occasional,High Risk
+49,81,151,70,Female,Diabetes,Yes,Regular,High Risk
+24,146,251,95,Male,Healthy,Yes,Regular,High Risk
+23,166,184,76,Female,Heart Disease,No,Occasional,Low Risk
+12,91,247,94,Female,Heart Disease,Yes,Occasional,Low Risk
+59,99,179,77,Female,Healthy,Yes,Occasional,Low Risk
+6,84,265,99,Male,Healthy,No,None,Low Risk
+56,116,157,81,Male,Diabetes,Yes,Regular,High Risk
+35,117,299,83,Female,Heart Disease,Yes,None,High Risk
+44,173,193,78,Male,Healthy,No,None,High Risk
+19,88,185,96,Male,Healthy,Yes,Regular,High Risk
+64,177,226,98,Male,Hypertension,No,Regular,Low Risk
+7,132,180,80,Female,Healthy,Yes,Occasional,High Risk
+15,123,196,67,Female,Healthy,No,Occasional,High Risk
+13,178,204,87,Male,Heart Disease,Yes,None,Low Risk
+75,165,255,64,Female,Diabetes,Yes,Occasional,Low Risk
+86,103,270,76,Female,Heart Disease,No,Occasional,High Risk
+14,160,204,96,Male,Diabetes,No,Regular,Low Risk
+91,153,293,95,Male,Hypertension,No,Regular,High Risk
+97,109,161,78,Female,Healthy,No,Occasional,Low Risk
+65,138,294,86,Male,Hypertension,Yes,Regular,Low Risk
+31,166,293,93,Female,Diabetes,Yes,Occasional,High Risk
+86,175,289,70,Female,Heart Disease,Yes,Regular,Low Risk
+62,160,285,71,Male,Heart Disease,No,Regular,High Risk
+85,160,152,80,Female,Hypertension,Yes,Regular,Low Risk
+50,93,293,70,Female,Diabetes,Yes,Regular,Low Risk
+24,88,179,98,Male,Hypertension,No,Occasional,Low Risk
+57,119,172,87,Male,Hypertension,No,None,Low Risk
+62,145,241,64,Male,Healthy,Yes,Regular,Low Risk
+61,104,264,76,Female,Hypertension,No,Occasional,High Risk
+21,152,253,79,Male,Healthy,Yes,Occasional,Low Risk
+57,101,267,71,Male,Healthy,Yes,Regular,High Risk
+57,83,154,65,Male,Heart Disease,No,None,Low Risk
+85,105,253,76,Male,Healthy,Yes,Regular,High Risk
+48,137,257,78,Female,Healthy,No,Occasional,Low Risk
+51,108,214,85,Female,Heart Disease,No,None,High Risk
+41,177,270,91,Male,Hypertension,Yes,Occasional,High Risk
+69,166,179,65,Female,Diabetes,Yes,Regular,Low Risk
+14,116,298,95,Male,Diabetes,Yes,None,Low Risk
+53,154,233,97,Male,Diabetes,No,Occasional,Low Risk
+59,149,299,70,Female,Hypertension,Yes,Occasional,High Risk
+96,97,181,92,Female,Healthy,No,Occasional,High Risk
+7,164,165,83,Male,Diabetes,No,Regular,Low Risk
+52,121,187,82,Male,Hypertension,Yes,None,Low Risk
+59,179,291,74,Female,Healthy,No,Regular,High Risk
+4,120,185,86,Male,Heart Disease,Yes,Regular,High Risk
+67,117,263,70,Female,Diabetes,Yes,Regular,Low Risk
+5,113,215,76,Male,Healthy,Yes,None,High Risk
+95,96,254,73,Male,Diabetes,Yes,Regular,Low Risk
+93,116,234,86,Female,Diabetes,Yes,Regular,Low Risk
+46,104,151,77,Female,Diabetes,Yes,Regular,Low Risk
+98,155,224,87,Female,Healthy,Yes,Regular,High Risk
+54,166,216,63,Female,Hypertension,No,Occasional,High Risk
+39,165,204,66,Female,Healthy,Yes,Regular,High Risk
+51,164,155,94,Female,Diabetes,No,Occasional,High Risk
+15,106,299,68,Female,Healthy,No,Regular,Low Risk
+12,136,292,67,Male,Heart Disease,No,None,High Risk
+29,110,235,76,Male,Hypertension,Yes,Occasional,Low Risk
+18,85,209,76,Male,Healthy,No,Occasional,Low Risk
+16,170,250,92,Female,Heart Disease,No,Occasional,Low Risk
+62,119,161,91,Female,Hypertension,Yes,Occasional,High Risk
+18,177,198,67,Female,Heart Disease,Yes,None,Low Risk
+91,91,191,78,Male,Hypertension,No,Regular,Low Risk
+57,132,231,97,Female,Healthy,Yes,Occasional,High Risk
+54,150,184,62,Female,Heart Disease,Yes,None,Low Risk
+89,89,283,64,Male,Diabetes,Yes,Occasional,High Risk
+89,124,216,72,Female,Heart Disease,Yes,Regular,High Risk
+61,96,229,90,Male,Hypertension,No,Occasional,High Risk
+22,105,156,75,Male,Healthy,Yes,None,Low Risk
+8,164,163,91,Female,Hypertension,Yes,Regular,High Risk
+11,171,222,81,Female,Heart Disease,Yes,None,High Risk
+0,141,292,88,Female,Heart Disease,No,Regular,High Risk
+57,125,298,81,Male,Diabetes,No,Regular,High Risk
+0,143,215,62,Male,Healthy,Yes,Regular,Low Risk
+33,81,240,69,Male,Healthy,Yes,Occasional,High Risk
+95,133,279,80,Female,Heart Disease,No,None,Low Risk
+47,144,169,75,Female,Healthy,Yes,None,High Risk
+88,130,159,71,Female,Diabetes,Yes,None,Low Risk
+0,132,174,61,Female,Hypertension,No,Regular,High Risk
+15,115,174,83,Male,Healthy,Yes,Occasional,Low Risk
+60,105,203,94,Male,Heart Disease,Yes,Regular,High Risk
+63,108,182,89,Male,Hypertension,No,None,Low Risk
+62,100,244,89,Male,Hypertension,No,Occasional,Low Risk
+68,90,163,94,Female,Diabetes,Yes,Occasional,Low Risk
+21,119,214,78,Female,Heart Disease,No,Occasional,High Risk
+92,90,259,67,Female,Healthy,Yes,None,Low Risk
+66,115,229,85,Male,Heart Disease,Yes,Occasional,Low Risk
+75,138,203,99,Male,Hypertension,Yes,Occasional,Low Risk
+25,118,274,66,Female,Heart Disease,No,Regular,Low Risk
+15,178,280,89,Female,Healthy,No,Regular,High Risk
+50,133,283,66,Male,Healthy,Yes,Occasional,Low Risk
+85,177,174,62,Female,Diabetes,Yes,Occasional,Low Risk
+56,134,290,60,Male,Healthy,No,Regular,Low Risk
+28,103,266,95,Male,Healthy,No,Regular,High Risk
+77,101,285,84,Male,Heart Disease,No,Regular,Low Risk
+91,148,298,96,Female,Heart Disease,Yes,None,Low Risk
+68,135,174,60,Female,Hypertension,No,None,Low Risk
+46,112,228,74,Male,Diabetes,No,Regular,Low Risk
+93,115,217,96,Female,Heart Disease,Yes,Occasional,High Risk
+61,99,161,72,Male,Healthy,Yes,Regular,Low Risk
+68,162,181,99,Male,Hypertension,Yes,None,Low Risk
+75,178,277,67,Male,Heart Disease,No,Occasional,High Risk
+15,160,245,64,Male,Diabetes,Yes,None,High Risk
+89,141,241,68,Female,Diabetes,Yes,Occasional,High Risk
+89,177,290,60,Male,Hypertension,Yes,None,Low Risk
+47,152,180,95,Male,Hypertension,Yes,Occasional,High Risk
+84,105,227,94,Female,Hypertension,No,Occasional,Low Risk
+38,145,169,61,Male,Hypertension,Yes,Occasional,High Risk
+99,152,295,99,Male,Hypertension,No,Occasional,Low Risk
+32,152,209,82,Female,Healthy,No,None,High Risk
+93,119,283,68,Female,Healthy,No,None,Low Risk
+22,96,242,93,Female,Heart Disease,Yes,Occasional,High Risk
+9,80,192,73,Male,Diabetes,No,Occasional,Low Risk
+68,168,279,63,Female,Healthy,Yes,None,Low Risk
+99,140,209,89,Female,Healthy,Yes,Occasional,Low Risk
+33,122,180,90,Male,Healthy,Yes,Occasional,Low Risk
+51,121,154,97,Male,Heart Disease,No,Occasional,Low Risk
+94,104,159,70,Male,Hypertension,Yes,Regular,Low Risk
+9,118,238,94,Male,Heart Disease,Yes,Occasional,Low Risk
+18,114,279,67,Male,Diabetes,Yes,Regular,Low Risk
+57,82,275,62,Female,Diabetes,No,Occasional,High Risk
+95,123,160,73,Female,Diabetes,No,None,Low Risk
+0,130,205,72,Female,Diabetes,No,Regular,Low Risk
+68,173,232,91,Male,Healthy,Yes,Regular,High Risk
+3,177,286,93,Male,Healthy,No,Occasional,Low Risk
+15,91,248,78,Male,Heart Disease,Yes,Occasional,High Risk
+23,98,298,97,Female,Hypertension,Yes,Regular,Low Risk
+79,123,222,75,Female,Diabetes,No,None,High Risk
+1,138,264,61,Male,Heart Disease,Yes,None,High Risk
+91,128,156,99,Female,Healthy,No,Occasional,Low Risk
+31,140,229,76,Male,Healthy,Yes,None,High Risk
+90,96,293,93,Female,Hypertension,No,None,Low Risk
+83,153,246,75,Female,Hypertension,Yes,Occasional,Low Risk
+23,136,153,97,Female,Hypertension,Yes,None,Low Risk
+11,134,153,61,Male,Heart Disease,Yes,Occasional,Low Risk
+49,126,252,61,Female,Healthy,Yes,Regular,High Risk
+34,91,189,85,Female,Healthy,Yes,Occasional,Low Risk
+32,141,166,72,Male,Hypertension,No,Regular,High Risk
+32,159,250,90,Female,Diabetes,Yes,Regular,High Risk
+60,167,252,93,Male,Hypertension,No,None,Low Risk
+50,162,273,98,Male,Heart Disease,No,None,Low Risk
+42,87,201,62,Male,Hypertension,No,None,Low Risk
+11,174,201,67,Male,Hypertension,Yes,Occasional,Low Risk
+66,100,273,82,Male,Heart Disease,Yes,None,High Risk
+64,160,212,73,Female,Hypertension,Yes,Regular,Low Risk
+32,166,265,86,Male,Healthy,No,None,High Risk
+39,159,211,88,Male,Diabetes,Yes,None,Low Risk
+73,149,156,98,Male,Hypertension,Yes,Occasional,Low Risk
+42,151,241,98,Male,Heart Disease,No,Occasional,Low Risk
+43,104,163,60,Female,Diabetes,No,Regular,Low Risk
+28,161,235,76,Male,Heart Disease,No,Occasional,High Risk
+12,168,282,89,Female,Diabetes,No,None,High Risk
+11,91,279,72,Male,Diabetes,No,Occasional,Low Risk
+94,94,211,80,Female,Hypertension,No,Regular,High Risk
+45,138,298,78,Male,Healthy,Yes,None,High Risk
+1,105,228,78,Male,Hypertension,No,Regular,Low Risk
+34,105,298,84,Female,Heart Disease,Yes,Occasional,Low Risk
+86,126,287,81,Male,Heart Disease,Yes,Occasional,High Risk
+80,111,207,90,Female,Diabetes,Yes,Regular,High Risk
+89,89,269,76,Male,Diabetes,No,None,High Risk
+7,95,282,82,Female,Healthy,Yes,Occasional,High Risk
+92,150,214,91,Male,Hypertension,No,Occasional,Low Risk
+25,96,162,69,Male,Heart Disease,No,None,Low Risk
+73,102,231,69,Female,Diabetes,Yes,Occasional,High Risk
+89,105,288,95,Male,Healthy,No,Regular,Low Risk
+33,164,298,67,Male,Heart Disease,Yes,Occasional,High Risk
+6,165,201,79,Male,Diabetes,Yes,Occasional,High Risk
+67,86,266,91,Male,Heart Disease,No,None,Low Risk
+57,93,175,73,Male,Healthy,Yes,Regular,High Risk
+74,158,183,87,Male,Healthy,Yes,None,High Risk
+28,86,201,83,Female,Heart Disease,Yes,Occasional,Low Risk
+35,88,261,74,Female,Hypertension,No,Occasional,Low Risk
+88,127,231,81,Female,Heart Disease,Yes,None,High Risk
+20,151,191,89,Male,Diabetes,No,None,High Risk
+35,138,170,63,Female,Hypertension,No,None,Low Risk
+9,166,191,72,Male,Diabetes,Yes,Regular,High Risk
+72,172,290,82,Male,Heart Disease,Yes,Occasional,High Risk
+23,161,262,67,Male,Hypertension,No,None,Low Risk
+63,174,254,77,Male,Diabetes,No,Occasional,Low Risk
+98,173,166,71,Female,Heart Disease,Yes,Regular,Low Risk
+48,118,269,90,Male,Heart Disease,Yes,Regular,Low Risk
+98,178,286,73,Female,Hypertension,No,Regular,Low Risk
+35,97,278,93,Male,Heart Disease,No,Regular,Low Risk
+81,138,279,77,Female,Healthy,No,Occasional,High Risk
+95,96,209,93,Female,Diabetes,No,Regular,High Risk
+23,93,197,70,Female,Diabetes,No,Regular,Low Risk
+22,110,178,71,Female,Heart Disease,Yes,None,Low Risk
+61,103,246,74,Female,Heart Disease,No,Regular,High Risk
+95,178,159,90,Female,Healthy,No,None,High Risk
+36,139,207,88,Male,Hypertension,Yes,Regular,High Risk
+11,124,170,85,Female,Heart Disease,Yes,Regular,Low Risk
+54,177,177,77,Male,Heart Disease,No,None,Low Risk
+12,82,183,91,Female,Heart Disease,No,Regular,High Risk
+22,116,157,81,Male,Heart Disease,Yes,Occasional,Low Risk
+88,122,228,97,Female,Diabetes,No,Occasional,Low Risk
+98,119,294,76,Female,Heart Disease,No,Regular,Low Risk
+29,169,236,82,Male,Diabetes,Yes,Occasional,High Risk
+16,134,237,83,Female,Heart Disease,No,None,High Risk
+61,166,218,67,Female,Hypertension,Yes,Regular,Low Risk
+83,118,236,65,Female,Healthy,Yes,Regular,Low Risk
+88,94,250,64,Male,Hypertension,Yes,None,Low Risk
+85,83,157,88,Female,Heart Disease,Yes,None,Low Risk
+12,172,226,87,Male,Heart Disease,No,None,Low Risk
+58,165,236,70,Female,Heart Disease,Yes,Regular,High Risk
+18,104,192,60,Female,Hypertension,No,None,Low Risk
+48,92,278,78,Male,Heart Disease,No,None,Low Risk
+99,161,258,68,Female,Hypertension,No,Occasional,Low Risk
+11,112,166,86,Female,Diabetes,No,Occasional,High Risk
+60,95,282,93,Male,Healthy,No,Regular,High Risk
+18,121,297,63,Female,Healthy,Yes,Occasional,Low Risk
+75,145,170,95,Male,Hypertension,Yes,Occasional,High Risk
+8,134,207,77,Male,Diabetes,Yes,None,High Risk
+70,178,259,74,Male,Hypertension,Yes,None,High Risk
+27,121,288,72,Female,Diabetes,No,Occasional,High Risk
+77,113,292,78,Male,Heart Disease,Yes,Occasional,High Risk
+94,109,284,65,Male,Diabetes,No,Occasional,High Risk
+51,92,177,71,Female,Diabetes,No,Regular,Low Risk
+82,92,200,96,Male,Diabetes,Yes,Regular,High Risk
+15,97,154,76,Female,Healthy,Yes,Regular,High Risk
+68,111,154,82,Female,Diabetes,Yes,Occasional,Low Risk
+98,175,243,85,Female,Heart Disease,Yes,Occasional,Low Risk
+11,178,245,88,Female,Heart Disease,No,Regular,Low Risk
+24,118,157,92,Male,Heart Disease,No,Regular,Low Risk
+51,125,213,86,Male,Diabetes,Yes,Occasional,High Risk
+84,108,287,84,Male,Hypertension,No,None,High Risk
+99,141,187,69,Male,Hypertension,No,Regular,High Risk
+52,172,260,82,Male,Heart Disease,No,Occasional,High Risk
+22,141,261,80,Female,Healthy,Yes,Occasional,Low Risk
+15,136,230,80,Male,Hypertension,No,None,High Risk
+56,95,285,72,Male,Diabetes,Yes,Occasional,High Risk
+38,135,253,96,Male,Hypertension,Yes,Occasional,Low Risk
+52,89,222,92,Female,Heart Disease,No,Regular,High Risk
+41,109,198,83,Female,Healthy,No,Regular,High Risk
+57,104,185,70,Male,Hypertension,Yes,None,High Risk
+38,163,275,76,Female,Hypertension,No,None,High Risk
+13,84,217,63,Male,Heart Disease,No,Occasional,Low Risk
+94,144,227,84,Male,Healthy,Yes,Regular,Low Risk
+4,173,254,89,Female,Healthy,Yes,None,Low Risk
+34,128,271,68,Female,Heart Disease,Yes,None,Low Risk
+86,82,268,80,Male,Diabetes,Yes,None,Low Risk
+92,124,263,79,Male,Hypertension,No,Occasional,High Risk
+74,93,159,78,Female,Diabetes,No,Regular,High Risk
+17,109,298,78,Male,Hypertension,Yes,None,Low Risk
+75,147,289,71,Female,Hypertension,Yes,Regular,Low Risk
+8,97,240,96,Male,Diabetes,Yes,None,Low Risk
+73,141,151,76,Female,Heart Disease,No,None,High Risk
+57,116,267,96,Male,Heart Disease,Yes,Regular,Low Risk
+16,104,162,98,Male,Hypertension,No,Regular,High Risk
+6,127,244,87,Female,Heart Disease,Yes,Regular,High Risk
+45,144,293,94,Male,Hypertension,Yes,Occasional,High Risk
+12,132,181,77,Male,Heart Disease,Yes,None,High Risk
+39,158,181,73,Female,Hypertension,No,Occasional,Low Risk
+41,152,273,94,Male,Heart Disease,No,Regular,High Risk
+8,94,160,66,Male,Healthy,No,None,High Risk
+49,128,159,72,Male,Diabetes,Yes,Occasional,Low Risk
+26,167,164,77,Female,Healthy,No,None,High Risk
+65,147,166,96,Female,Diabetes,No,Occasional,High Risk
+4,91,295,72,Female,Diabetes,Yes,Regular,High Risk
+28,138,208,95,Male,Hypertension,Yes,Occasional,Low Risk
+36,116,227,90,Male,Diabetes,No,None,High Risk
+37,140,273,61,Male,Healthy,No,None,High Risk
+82,122,263,75,Male,Healthy,No,None,Low Risk
+7,149,171,68,Female,Heart Disease,No,None,Low Risk
+64,118,181,68,Male,Healthy,Yes,Regular,High Risk
+85,135,262,97,Male,Heart Disease,Yes,Occasional,High Risk
+16,142,269,70,Male,Diabetes,Yes,Regular,Low Risk
+70,125,298,81,Female,Healthy,No,Regular,High Risk
+88,167,271,92,Male,Diabetes,No,Regular,Low Risk
+44,90,181,95,Male,Healthy,Yes,None,High Risk
+3,141,268,82,Male,Healthy,Yes,None,Low Risk
+35,156,188,93,Male,Heart Disease,No,None,High Risk
+69,177,161,68,Male,Diabetes,No,Occasional,Low Risk
+30,104,167,83,Female,Healthy,Yes,None,Low Risk
+18,150,298,67,Male,Hypertension,Yes,Occasional,Low Risk
+60,131,290,66,Male,Diabetes,Yes,None,Low Risk
+53,83,298,95,Male,Diabetes,No,None,Low Risk
+38,138,275,77,Male,Diabetes,No,Regular,High Risk
+90,151,285,62,Male,Heart Disease,No,Regular,High Risk
+73,99,195,87,Male,Hypertension,No,Regular,Low Risk
+89,172,253,65,Male,Diabetes,No,Occasional,High Risk
+18,142,284,80,Male,Healthy,No,Occasional,High Risk
+38,133,235,87,Male,Healthy,Yes,None,High Risk
+66,153,299,99,Male,Heart Disease,Yes,Occasional,High Risk
+44,177,238,60,Female,Healthy,No,None,High Risk
+12,136,171,95,Female,Diabetes,Yes,Occasional,High Risk
+91,169,241,80,Female,Healthy,No,Occasional,Low Risk
+57,120,178,94,Female,Diabetes,Yes,Occasional,High Risk
+19,82,162,72,Male,Healthy,No,Regular,High Risk
+91,85,151,69,Female,Hypertension,Yes,Occasional,High Risk
+71,84,178,69,Female,Heart Disease,Yes,Regular,Low Risk
+60,84,176,72,Male,Heart Disease,No,Regular,High Risk
+38,133,199,96,Female,Hypertension,No,Occasional,High Risk
+0,126,244,97,Female,Hypertension,Yes,None,High Risk
+2,166,237,83,Male,Heart Disease,Yes,None,Low Risk
+76,128,193,61,Male,Hypertension,No,None,High Risk
+91,88,171,81,Male,Diabetes,Yes,Occasional,Low Risk
+61,178,246,76,Female,Healthy,No,None,High Risk
+62,99,152,95,Female,Heart Disease,No,Regular,Low Risk
+24,140,267,73,Male,Hypertension,Yes,None,Low Risk
+55,114,168,69,Male,Diabetes,No,Occasional,Low Risk
+32,129,172,94,Female,Heart Disease,Yes,None,High Risk
+37,161,179,84,Male,Hypertension,Yes,Regular,Low Risk
+5,141,188,62,Female,Heart Disease,No,Occasional,Low Risk
+57,96,257,97,Male,Hypertension,Yes,None,Low Risk
+43,167,260,76,Male,Heart Disease,No,Occasional,Low Risk
+44,82,174,71,Female,Diabetes,No,Occasional,High Risk
+31,111,277,83,Male,Diabetes,No,Occasional,High Risk
+44,178,260,88,Male,Healthy,Yes,None,High Risk
+60,92,285,84,Male,Heart Disease,No,Occasional,High Risk
+46,168,255,95,Female,Healthy,Yes,None,Low Risk
+20,152,293,85,Male,Heart Disease,No,Regular,High Risk
+79,147,221,97,Male,Hypertension,No,None,Low Risk
+84,93,278,60,Male,Hypertension,No,Regular,High Risk
+74,177,257,79,Male,Healthy,Yes,None,High Risk
+35,90,154,87,Male,Heart Disease,Yes,Occasional,High Risk
+98,135,152,75,Male,Healthy,No,None,Low Risk
+18,146,281,76,Female,Diabetes,No,Occasional,High Risk
+19,171,253,99,Female,Healthy,Yes,Regular,High Risk
+56,108,213,87,Male,Healthy,Yes,None,High Risk
+17,88,255,71,Female,Hypertension,Yes,Occasional,Low Risk
+46,146,247,86,Female,Healthy,No,Regular,High Risk
+48,104,159,89,Male,Heart Disease,Yes,Regular,High Risk
+13,177,298,93,Female,Hypertension,No,None,Low Risk
+14,155,277,96,Female,Healthy,Yes,Regular,Low Risk
+30,121,195,65,Female,Diabetes,No,Occasional,High Risk
+0,88,215,66,Female,Healthy,No,Regular,High Risk
+53,158,261,91,Female,Healthy,No,Regular,High Risk
+2,119,162,91,Female,Healthy,Yes,Occasional,Low Risk
+15,104,286,84,Female,Hypertension,Yes,Regular,Low Risk
+86,84,235,92,Female,Heart Disease,Yes,Regular,Low Risk
+56,90,239,66,Male,Diabetes,No,Regular,High Risk
+74,138,207,71,Male,Healthy,No,Regular,Low Risk
+11,177,203,75,Female,Heart Disease,Yes,Occasional,High Risk
+73,167,161,75,Female,Heart Disease,No,Regular,Low Risk
+95,158,163,95,Male,Hypertension,No,Occasional,Low Risk
+15,117,270,72,Female,Diabetes,No,Regular,Low Risk
+71,151,270,66,Female,Hypertension,Yes,Regular,High Risk
+75,84,169,95,Male,Heart Disease,No,Regular,High Risk
+23,127,224,68,Male,Heart Disease,Yes,Regular,High Risk
+27,169,293,91,Male,Heart Disease,Yes,Occasional,High Risk
+7,97,219,70,Female,Hypertension,Yes,Occasional,Low Risk
+91,149,205,67,Female,Diabetes,Yes,Occasional,High Risk
+35,116,250,92,Male,Healthy,Yes,None,Low Risk
+89,139,281,82,Male,Hypertension,No,Regular,High Risk
+7,127,260,84,Female,Heart Disease,Yes,Regular,High Risk
+57,156,274,67,Male,Hypertension,Yes,Occasional,Low Risk
+59,107,281,81,Female,Heart Disease,Yes,None,Low Risk
+49,148,169,63,Female,Healthy,No,Regular,High Risk
+27,156,287,99,Male,Healthy,No,Occasional,High Risk
+91,160,173,62,Male,Diabetes,No,Regular,Low Risk
+40,119,186,88,Female,Heart Disease,No,Regular,Low Risk
+99,124,203,88,Male,Diabetes,Yes,Occasional,Low Risk
+63,175,252,93,Male,Diabetes,Yes,Occasional,Low Risk
+26,141,298,93,Male,Healthy,No,Regular,Low Risk
+62,172,187,87,Male,Hypertension,No,Regular,High Risk
+16,137,153,72,Female,Hypertension,No,Occasional,High Risk
+72,146,206,74,Female,Diabetes,No,Regular,High Risk
+32,135,169,82,Female,Healthy,Yes,Regular,High Risk
+83,119,166,85,Female,Heart Disease,No,Occasional,Low Risk
+76,177,268,63,Male,Hypertension,No,Regular,Low Risk
+91,119,220,85,Male,Diabetes,No,Regular,Low Risk
+28,170,153,99,Female,Hypertension,No,None,High Risk
+12,156,163,68,Female,Hypertension,No,Occasional,Low Risk
+45,112,152,64,Male,Heart Disease,No,None,Low Risk
+34,85,229,91,Female,Healthy,No,None,High Risk
+5,167,204,79,Female,Heart Disease,Yes,None,High Risk
+81,98,281,70,Male,Healthy,Yes,Regular,High Risk
+68,159,269,74,Female,Hypertension,Yes,Regular,Low Risk
+46,119,173,91,Male,Diabetes,Yes,None,Low Risk
+24,171,231,87,Male,Heart Disease,Yes,None,High Risk
+65,176,296,81,Female,Healthy,Yes,None,High Risk
+9,138,209,76,Male,Hypertension,No,Regular,Low Risk
+55,138,296,85,Female,Healthy,No,None,High Risk
+29,127,198,66,Male,Healthy,Yes,None,Low Risk
+4,120,212,85,Female,Healthy,No,Occasional,High Risk
+32,92,259,84,Female,Hypertension,Yes,Occasional,High Risk
+64,124,299,69,Female,Diabetes,No,Regular,High Risk
+17,168,258,78,Male,Diabetes,No,Occasional,Low Risk
+95,132,225,70,Male,Diabetes,No,Occasional,Low Risk
+48,121,179,72,Female,Healthy,No,Occasional,High Risk
+10,179,207,67,Male,Hypertension,No,Regular,Low Risk
+84,142,266,99,Female,Healthy,No,Occasional,High Risk
+25,106,249,63,Female,Diabetes,Yes,Regular,High Risk
+62,117,168,90,Male,Diabetes,Yes,None,Low Risk
+88,139,243,87,Female,Hypertension,No,Occasional,Low Risk
+85,86,262,70,Male,Healthy,Yes,Regular,Low Risk
+58,84,295,60,Female,Heart Disease,No,Occasional,Low Risk
+26,124,212,97,Male,Heart Disease,Yes,None,High Risk
+48,137,265,83,Female,Diabetes,No,Regular,Low Risk
+76,110,262,90,Female,Hypertension,Yes,Regular,Low Risk
+32,102,196,85,Male,Healthy,No,Regular,High Risk
+97,121,206,64,Female,Healthy,Yes,None,High Risk
+98,89,267,79,Female,Diabetes,No,None,High Risk
+0,111,194,70,Male,Diabetes,Yes,None,High Risk
+20,132,294,92,Female,Healthy,No,Regular,Low Risk
+54,109,153,97,Male,Healthy,No,None,Low Risk
+5,118,297,86,Female,Diabetes,No,Occasional,High Risk
+91,110,196,93,Male,Healthy,Yes,None,High Risk
+80,161,292,74,Female,Heart Disease,Yes,Regular,Low Risk
+68,179,196,91,Female,Diabetes,Yes,Occasional,Low Risk
+94,81,227,80,Female,Healthy,No,None,Low Risk
+4,157,273,64,Male,Diabetes,Yes,Occasional,Low Risk
+2,156,224,65,Male,Hypertension,No,Occasional,Low Risk
+52,172,252,97,Male,Diabetes,Yes,Regular,High Risk
+22,91,286,81,Male,Diabetes,Yes,Occasional,High Risk
+52,118,239,77,Female,Hypertension,Yes,Occasional,High Risk
+36,145,293,73,Female,Heart Disease,Yes,Regular,High Risk
+73,175,218,69,Male,Healthy,No,Regular,Low Risk
+73,92,210,72,Male,Hypertension,Yes,Regular,High Risk
+82,125,287,90,Male,Diabetes,Yes,Occasional,Low Risk
+16,106,199,89,Female,Healthy,No,Occasional,Low Risk
+84,96,152,62,Male,Hypertension,No,Occasional,Low Risk
+77,174,256,89,Male,Healthy,Yes,Regular,Low Risk
+72,177,262,65,Female,Healthy,Yes,None,Low Risk
+0,139,243,88,Female,Hypertension,No,Occasional,Low Risk
+50,143,267,67,Male,Healthy,No,None,Low Risk
+44,167,230,92,Female,Heart Disease,No,Regular,High Risk
+76,114,258,76,Male,Hypertension,Yes,Occasional,Low Risk
+3,149,200,70,Female,Heart Disease,Yes,None,High Risk
+61,162,296,72,Male,Diabetes,Yes,Occasional,High Risk
+64,109,184,70,Male,Healthy,No,Occasional,Low Risk
+31,150,195,90,Male,Diabetes,No,Occasional,Low Risk
+33,153,218,87,Male,Diabetes,No,None,High Risk
+91,175,242,65,Female,Healthy,Yes,Regular,High Risk
+94,177,213,75,Female,Hypertension,No,Occasional,High Risk
+71,142,198,63,Female,Healthy,Yes,Regular,High Risk
+38,107,298,94,Female,Diabetes,No,Regular,Low Risk
+25,139,223,85,Male,Diabetes,Yes,None,Low Risk
+33,158,154,71,Male,Hypertension,Yes,None,Low Risk
+53,173,249,70,Female,Healthy,No,Regular,High Risk
+2,116,219,96,Female,Diabetes,Yes,Occasional,Low Risk
+49,172,239,84,Female,Heart Disease,No,None,High Risk
+11,101,153,77,Female,Diabetes,Yes,Occasional,Low Risk
+64,147,275,78,Female,Diabetes,No,Occasional,High Risk
+53,99,188,82,Male,Hypertension,No,Occasional,Low Risk
+4,175,278,97,Male,Heart Disease,Yes,Regular,Low Risk
+93,179,173,77,Male,Diabetes,No,Occasional,High Risk
+93,147,206,85,Female,Diabetes,Yes,Regular,High Risk
+56,170,249,65,Female,Heart Disease,No,Regular,High Risk
+16,143,219,63,Female,Healthy,No,Occasional,High Risk
+46,96,190,88,Female,Healthy,No,Occasional,High Risk
+22,91,209,93,Male,Diabetes,No,Occasional,Low Risk
+78,101,257,76,Male,Diabetes,Yes,Occasional,High Risk
+84,96,206,75,Female,Healthy,No,Regular,Low Risk
+13,89,180,61,Male,Hypertension,No,Occasional,Low Risk
+65,144,233,93,Male,Heart Disease,Yes,Occasional,Low Risk
+74,101,185,67,Female,Heart Disease,Yes,Regular,Low Risk
+50,169,257,72,Female,Hypertension,Yes,None,Low Risk
+37,161,255,67,Female,Hypertension,Yes,None,High Risk
+63,129,235,89,Female,Hypertension,Yes,Regular,High Risk
+97,93,284,91,Female,Hypertension,Yes,None,Low Risk
+37,143,163,95,Female,Hypertension,No,Regular,Low Risk
+49,126,269,89,Male,Hypertension,Yes,Occasional,High Risk
+97,108,287,60,Male,Heart Disease,No,Occasional,High Risk
+81,155,229,98,Female,Hypertension,Yes,None,Low Risk
+29,115,293,76,Male,Healthy,No,Occasional,High Risk
+78,178,255,79,Female,Hypertension,No,None,High Risk
+90,131,219,83,Female,Hypertension,No,None,High Risk
+50,155,193,81,Female,Heart Disease,Yes,Occasional,Low Risk
+62,86,222,88,Female,Heart Disease,Yes,Occasional,High Risk
+97,108,194,81,Male,Hypertension,Yes,None,Low Risk
+51,90,256,68,Female,Heart Disease,Yes,Occasional,Low Risk
+37,112,233,96,Male,Diabetes,No,Regular,Low Risk
+96,85,231,69,Female,Heart Disease,Yes,Occasional,Low Risk
+87,158,256,95,Female,Heart Disease,No,Occasional,Low Risk
+78,111,170,96,Female,Heart Disease,No,Regular,High Risk
+29,130,156,87,Male,Heart Disease,Yes,Occasional,Low Risk
+50,154,219,87,Female,Healthy,Yes,Occasional,Low Risk
+80,137,276,80,Female,Healthy,Yes,None,Low Risk
+4,166,292,83,Female,Healthy,No,Occasional,High Risk
+28,105,297,99,Male,Hypertension,Yes,Occasional,High Risk
+3,177,292,61,Male,Hypertension,No,Regular,High Risk
+9,125,298,67,Male,Diabetes,Yes,None,High Risk
+55,177,269,86,Female,Healthy,No,None,High Risk
+16,108,277,81,Male,Hypertension,Yes,None,High Risk
+73,83,291,96,Female,Heart Disease,Yes,Occasional,High Risk
+16,160,206,86,Male,Heart Disease,No,None,Low Risk
+83,178,207,88,Male,Healthy,Yes,Regular,Low Risk
+87,92,170,62,Female,Diabetes,Yes,None,High Risk
+68,118,231,72,Male,Diabetes,Yes,Regular,Low Risk
+33,94,218,69,Female,Heart Disease,Yes,None,Low Risk
+5,108,280,95,Female,Diabetes,Yes,None,High Risk
+52,108,236,68,Male,Healthy,Yes,Regular,Low Risk
+65,154,198,86,Female,Heart Disease,Yes,None,Low Risk
+76,111,296,93,Female,Hypertension,No,None,High Risk
+42,81,264,60,Male,Hypertension,No,None,Low Risk
+74,126,238,91,Male,Diabetes,Yes,Occasional,High Risk
+22,157,234,84,Female,Heart Disease,Yes,Regular,High Risk
+54,163,277,88,Male,Heart Disease,Yes,None,Low Risk
+79,101,289,66,Female,Hypertension,No,Regular,Low Risk
+94,154,266,62,Female,Heart Disease,No,Regular,Low Risk
+74,106,276,79,Male,Heart Disease,Yes,Regular,High Risk
+15,146,220,79,Male,Heart Disease,No,None,High Risk
+7,160,235,89,Male,Diabetes,Yes,None,High Risk
+3,135,182,94,Male,Heart Disease,Yes,Regular,Low Risk
+3,171,230,94,Female,Healthy,Yes,Occasional,Low Risk
+55,172,210,98,Female,Diabetes,Yes,Regular,High Risk
+24,100,210,86,Male,Heart Disease,No,Occasional,Low Risk
+66,126,247,85,Male,Heart Disease,No,Regular,Low Risk
+95,159,177,73,Female,Healthy,Yes,Regular,High Risk
+66,138,192,76,Female,Diabetes,No,Regular,High Risk
+26,163,235,77,Female,Hypertension,No,None,Low Risk
+92,85,166,88,Female,Hypertension,Yes,Occasional,High Risk
+31,98,247,79,Male,Diabetes,No,Occasional,Low Risk
+49,136,247,86,Female,Heart Disease,Yes,Regular,High Risk
+60,148,214,77,Female,Heart Disease,Yes,None,High Risk
+50,82,223,63,Male,Hypertension,Yes,None,High Risk
+18,80,234,60,Female,Hypertension,Yes,Occasional,Low Risk
+20,137,154,60,Female,Hypertension,No,None,Low Risk
+4,117,151,85,Male,Healthy,Yes,Occasional,High Risk
+81,94,171,79,Male,Hypertension,No,Occasional,High Risk
+91,113,261,82,Male,Healthy,Yes,Occasional,High Risk
+41,140,206,69,Female,Diabetes,Yes,None,Low Risk
+60,114,215,70,Female,Heart Disease,No,Occasional,High Risk
+21,143,223,64,Male,Hypertension,Yes,Occasional,High Risk
+20,104,247,60,Male,Heart Disease,No,Regular,High Risk
+69,103,293,76,Female,Heart Disease,No,Occasional,High Risk
+0,91,261,81,Male,Hypertension,Yes,Occasional,Low Risk
+4,97,274,93,Male,Hypertension,Yes,Regular,Low Risk
+11,94,235,88,Male,Diabetes,Yes,Regular,High Risk
+89,159,225,63,Female,Healthy,Yes,None,Low Risk
+45,106,237,64,Female,Healthy,Yes,Occasional,Low Risk
+33,151,187,70,Female,Heart Disease,Yes,None,Low Risk
+48,139,208,80,Female,Hypertension,No,None,High Risk
+77,125,287,94,Female,Diabetes,No,Regular,Low Risk
+89,168,248,71,Female,Diabetes,Yes,None,Low Risk
+44,96,212,85,Male,Diabetes,No,Occasional,Low Risk
+26,172,198,78,Female,Diabetes,No,Regular,High Risk
+72,132,181,66,Female,Diabetes,Yes,Occasional,High Risk
+25,87,284,66,Male,Healthy,Yes,Occasional,Low Risk
+46,158,170,85,Female,Healthy,No,Regular,Low Risk
+85,106,169,99,Female,Healthy,Yes,Occasional,High Risk
+55,125,276,64,Male,Hypertension,No,Regular,High Risk
+93,129,217,80,Male,Heart Disease,Yes,Occasional,Low Risk
+62,150,259,73,Male,Diabetes,No,Regular,Low Risk
+47,82,265,63,Female,Hypertension,No,None,High Risk
+60,172,292,82,Male,Diabetes,No,Occasional,High Risk
+80,143,269,79,Female,Healthy,No,Regular,Low Risk
+25,123,228,74,Female,Hypertension,Yes,Occasional,High Risk
+35,132,265,88,Female,Healthy,Yes,Occasional,Low Risk
+0,103,241,67,Female,Diabetes,No,Occasional,Low Risk
+7,139,163,78,Male,Diabetes,No,Regular,Low Risk
+98,82,274,98,Male,Heart Disease,Yes,None,High Risk
+51,99,207,87,Female,Diabetes,Yes,None,Low Risk
+78,125,177,86,Male,Healthy,No,None,Low Risk
+46,94,175,63,Female,Diabetes,No,Regular,High Risk
+55,104,262,74,Female,Heart Disease,No,None,High Risk
+85,173,215,94,Female,Heart Disease,No,Regular,Low Risk
+13,157,280,96,Male,Healthy,No,Occasional,Low Risk
+89,150,193,60,Female,Hypertension,Yes,Occasional,High Risk
+27,96,246,62,Female,Diabetes,No,None,High Risk
+86,163,191,83,Male,Heart Disease,Yes,Regular,High Risk
+77,179,155,86,Male,Diabetes,Yes,Occasional,Low Risk
+87,88,172,99,Male,Diabetes,Yes,Regular,Low Risk
+1,117,238,95,Male,Hypertension,No,Regular,Low Risk
+25,127,272,93,Female,Heart Disease,Yes,Occasional,High Risk
+13,139,296,88,Male,Diabetes,Yes,Regular,Low Risk
+58,142,200,83,Female,Heart Disease,Yes,Occasional,High Risk
+55,165,160,83,Male,Healthy,Yes,Occasional,Low Risk
+6,81,161,63,Male,Healthy,No,Occasional,High Risk
+2,167,223,62,Male,Diabetes,No,Regular,Low Risk
+22,151,157,93,Male,Heart Disease,Yes,Occasional,Low Risk
+17,90,190,82,Male,Diabetes,Yes,Regular,High Risk
+37,143,234,82,Male,Heart Disease,No,Occasional,High Risk
+98,156,221,64,Female,Heart Disease,No,Occasional,Low Risk
+14,160,204,90,Male,Hypertension,No,None,High Risk
+63,151,286,65,Male,Hypertension,Yes,None,High Risk
+88,100,196,96,Male,Hypertension,No,None,Low Risk
+27,97,292,69,Male,Diabetes,Yes,Regular,High Risk
+73,173,253,99,Female,Hypertension,Yes,Regular,Low Risk
+38,143,191,66,Male,Hypertension,No,Occasional,Low Risk
+56,161,209,98,Male,Healthy,Yes,Occasional,High Risk
+16,174,161,97,Male,Heart Disease,No,Occasional,High Risk
+85,117,279,80,Male,Heart Disease,Yes,Occasional,Low Risk
+89,111,156,79,Female,Hypertension,No,Regular,Low Risk
+43,90,229,62,Male,Heart Disease,Yes,Occasional,Low Risk
+24,124,280,81,Female,Healthy,Yes,Occasional,Low Risk
+16,168,258,63,Male,Healthy,No,None,Low Risk
+12,112,152,87,Female,Hypertension,No,Occasional,Low Risk
+83,120,176,71,Female,Healthy,No,Occasional,High Risk
+24,87,263,97,Male,Heart Disease,No,Occasional,High Risk
+67,90,256,95,Male,Diabetes,Yes,Regular,High Risk
+9,165,189,64,Female,Heart Disease,No,None,Low Risk
+66,130,278,72,Female,Diabetes,No,Occasional,High Risk
+17,167,157,82,Male,Hypertension,Yes,Occasional,Low Risk
+99,120,250,89,Female,Diabetes,No,None,Low Risk
+85,96,273,96,Female,Healthy,No,Occasional,High Risk
